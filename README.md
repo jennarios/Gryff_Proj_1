@@ -10,7 +10,7 @@ Specific Components.
 
 
 
-# Gryffendor - Project 2
+# Gryffendor - Project 1
 My project 1 goals were to create a business that utilized the Salesforce Cloud.
 My business was called 'Mi-Casa: An Alternative doggy daycare service.' 
 
